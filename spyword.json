@@ -1,4 +1,5 @@
-[
+{
+  "words": [
     { "worldWord": "Pepsi", "spyWord": "Coca-Cola" },
     { "worldWord": "Instagram", "spyWord": "Snapchat" },
     { "worldWord": "burger", "spyWord": "cheeseburger" },
@@ -30,3 +31,4 @@
     { "worldWord": "helm", "spyWord": "helm half-face" },
     { "worldWord": "rokok", "spyWord": "vape" }
   ]
+}
